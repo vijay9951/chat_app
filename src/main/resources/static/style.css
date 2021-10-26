@@ -1,3 +1,10 @@
-#name-from{
+#name-from {
 	height: 100vh;
+}
+
+.videoObject {
+	border: 12px solid #222;
+	background: grey;
+	height: 250px;
+	width: 350px;
 }
